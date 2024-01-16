@@ -159,6 +159,10 @@ h3{
     margin-top: 30px;
 }
 
+.apeljatoh {
+    color: red !important;
+}
+
 @media only screen and (max-width: 600px){
     .container-base{
         width: 250px;
